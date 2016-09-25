@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12009" started-at="2016-09-24T05:12:38Z" finished-at="2016-09-24T05:12:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12009" started-at="2016-09-24T05:12:38Z" finished-at="2016-09-24T05:12:50Z">
+      <class name="twitterTest.TesttwitLoginPage">
+        <test-method status="PASS" signature="navigateToSite()[pri:0, instance:twitterTest.TesttwitLoginPage@6767c1fc]" name="navigateToSite" is-config="true" duration-ms="6907" started-at="2016-09-24T00:12:38Z" finished-at="2016-09-24T00:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToSite -->
+        <test-method status="PASS" signature="doLogin()[pri:0, instance:twitterTest.TesttwitLoginPage@6767c1fc]" name="doLogin" duration-ms="5081" started-at="2016-09-24T00:12:45Z" finished-at="2016-09-24T00:12:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+      </class> <!-- twitterTest.TesttwitLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
